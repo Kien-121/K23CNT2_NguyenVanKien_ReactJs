@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+            "fullname":"Nguyễn Văn Kiên ",
+            "age":20,
+            "class":"K23CNT2"
+        },
+        {
+            "fullname":"Nguyễn Văn Kiên ",
+            "age":20,
+            "class":"K23CNT2"
+        }
+    ],
+    "students":[
+        {
+            "studentid":"SV01",
+            "studentname":"Nguyễn Văn A"
+        }
+    ]
+}
